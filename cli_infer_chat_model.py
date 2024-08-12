@@ -1,8 +1,6 @@
 import pickle
 import sys
 
-sys.path.append("./")
-sys.path.append("./anygpt/src")
 import os
 import random
 import argparse
